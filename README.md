@@ -7,7 +7,7 @@
 | Java Stdin and Stdout II                 | [java-stdin-stdout-English.pdf](/src/Java%20Stdin%20and%20Stdout%20II/java-stdin-stdout-English.pdf) | [JavaStdinAndStdoutII.java](/src/Java%20Stdin%20and%20Stdout%20II/JavaStdinAndStdoutII.java) |
 | Java If-Else                             | [java-if-else-English.pdf](/src/Java%20If-Else/java-if-else-English.pdf) | [JavaIfElse.java](/src/Java%20If-Else/JavaIfElse.java) |
 | Java Output Formatting                   | [java-output-formatting-English.pdf](/src/Java%20Output%20Formatting/java-output-formatting-English.pdf) | [JavaOutputFormatting.java](/src/Java%20Output%20Formatting/JavaOutputFormatting.java) |
-| Java Loops I                             | []() | []() |
+| Java Loops I                             | [java-loops-i-English.pdf](/src/Java%20Loops%20I/java-loops-i-English.pdf) | [JavaLoopsI.java](/src/Java%20Loops%20I/JavaLoopsI.java) |
 | Java Loops II                            | []() | []() |
 | Java Datatypes                           | []() | []() |
 | Java End-of-file                         | []() | []() |
