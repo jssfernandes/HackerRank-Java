@@ -10,7 +10,7 @@
 | Java Loops I                             | [java-loops-i-English.pdf](/src/Java%20Loops%20I/java-loops-i-English.pdf) | [JavaLoopsI.java](/src/Java%20Loops%20I/JavaLoopsI.java) |
 | Java Loops II                            | [java-loops-English.pdf](/src/Java%20Loops%20II/java-loops-English.pdf) | [JavaLoopsII.java](/src/Java%20Loops%20II/JavaLoopsII.java) |
 | Java Datatypes                           | [java-datatypes-English.pdf](/src/Java%20Datatypes/java-datatypes-English.pdf) | [JavaDatatypes.java](/src/Java%20Datatypes/JavaDatatypes.java) |
-| Java End-of-file                         | []() | []() |
+| Java End-of-file                         | [java-end-of-file-English.pdf](/src/Java%20End-of-file/java-end-of-file-English.pdf) | [JavaEOF.java](/src/Java%20End-of-file/JavaEOF.java) |
 | Java Static Initializer Block            | []() | []() |
 | Java Int to String                       | []() | []() |
 | Java Date and Time                       | []() | []() |
