@@ -9,7 +9,7 @@
 | Java Output Formatting                   | [java-output-formatting-English.pdf](/src/Java%20Output%20Formatting/java-output-formatting-English.pdf) | [JavaOutputFormatting.java](/src/Java%20Output%20Formatting/JavaOutputFormatting.java) |
 | Java Loops I                             | [java-loops-i-English.pdf](/src/Java%20Loops%20I/java-loops-i-English.pdf) | [JavaLoopsI.java](/src/Java%20Loops%20I/JavaLoopsI.java) |
 | Java Loops II                            | [java-loops-English.pdf](/src/Java%20Loops%20II/java-loops-English.pdf) | [JavaLoopsII.java](/src/Java%20Loops%20II/JavaLoopsII.java) |
-| Java Datatypes                           | []() | []() |
+| Java Datatypes                           | [java-datatypes-English.pdf](/src/Java%20Datatypes/java-datatypes-English.pdf) | [JavaDatatypes.java](/src/Java%20Datatypes/JavaDatatypes.java) |
 | Java End-of-file                         | []() | []() |
 | Java Static Initializer Block            | []() | []() |
 | Java Int to String                       | []() | []() |
