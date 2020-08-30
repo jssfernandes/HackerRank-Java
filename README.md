@@ -15,7 +15,7 @@
 | Java Int to String                       | [java-int-to-string-English.pdf](/src/Java%20Int%20to%20String/java-int-to-string-English.pdf) | [JavaIntToString.java](/src/Java%20Int%20to%20String/JavaIntToString.java) |
 | Java Date and Time                       | [java-date-and-time-English.pdf](/src/Java%20Date%20and%20Time/java-date-and-time-English.pdf) | [JavaDateAndTime.java](/src/Java%20Date%20and%20Time/JavaDateAndTime.java) |
 | Java Currency Formatter                  | [java-currency-formatter-English.pdf](/src/Java%20Currency%20Formatter/java-currency-formatter-English.pdf) | [JavaCurrencyFormatter.java](/src/Java%20Currency%20Formatter/JavaCurrencyFormatter.java) |
-| Java Strings Introduction                | []() | []() |
+| Java Strings Introduction                | [java-strings-introduction-English.pdf](/src/Java%20Strings%20Introduction/java-strings-introduction-English.pdf) | [JavaStringsIntroduction.java](/src/Java%20Strings%20Introduction/JavaStringsIntroduction.java) |
 | Java Substring                           | []() | []() |
 | Java Substring Comparisons               | []() | []() |
 | Java String Reverse                      | []() | []() |
