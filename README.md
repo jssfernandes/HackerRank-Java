@@ -11,10 +11,10 @@
 | Java Loops II                            | [java-loops-English.pdf](/src/Java%20Loops%20II/java-loops-English.pdf) | [JavaLoopsII.java](/src/Java%20Loops%20II/JavaLoopsII.java) |
 | Java Datatypes                           | [java-datatypes-English.pdf](/src/Java%20Datatypes/java-datatypes-English.pdf) | [JavaDatatypes.java](/src/Java%20Datatypes/JavaDatatypes.java) |
 | Java End-of-file                         | [java-end-of-file-English.pdf](/src/Java%20End-of-file/java-end-of-file-English.pdf) | [JavaEOF.java](/src/Java%20End-of-file/JavaEOF.java) |
-| Java Static Initializer Block            | []() | []() |
-| Java Int to String                       | []() | []() |
-| Java Date and Time                       | []() | []() |
-| Java Currency Formatter                  | []() | []() |
+| Java Static Initializer Block            | [java-static-initializer-block-English.pdf](/src/Java%20Static%20Initializer%20Block/java-static-initializer-block-English.pdf) | [JavaStaticInitializerBlock.java](/src/Java%20Static%20Initializer%20Block/JavaStaticInitializerBlock.java) |
+| Java Int to String                       | [java-int-to-string-English.pdf](/src/Java%20Int%20to%20String/java-int-to-string-English.pdf) | [JavaIntToString.java](/src/Java%20Int%20to%20String/JavaIntToString.java) |
+| Java Date and Time                       | [java-date-and-time-English.pdf](/src/Java%20Date%20and%20Time/java-date-and-time-English.pdf) | [JavaDateAndTime.java](/src/Java%20Date%20and%20Time/JavaDateAndTime.java) |
+| Java Currency Formatter                  | [java-currency-formatter-English.pdf](/src/Java%20Currency%20Formatter/java-currency-formatter-English.pdf) | [JavaCurrencyFormatter.java](/src/Java%20Currency%20Formatter/JavaCurrencyFormatter.java) |
 | Java Strings Introduction                | []() | []() |
 | Java Substring                           | []() | []() |
 | Java Substring Comparisons               | []() | []() |
