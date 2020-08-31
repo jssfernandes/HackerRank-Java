@@ -10,6 +10,7 @@ public class JavaStringReverse {
         StringBuilder stringReverse = new StringBuilder();
         stringReverse.append(A); 
         stringReverse = stringReverse.reverse(); 
-        System.out.println(A.equals(stringReverse.toString()) == true);
+        
+        System.out.println(A.equals(stringReverse.toString()) == true ? "Yes" : "No");
     }
 }
