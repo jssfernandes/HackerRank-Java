@@ -18,7 +18,7 @@
 | Java Strings Introduction                | [java-strings-introduction-English.pdf](/src/Java%20Strings%20Introduction/java-strings-introduction-English.pdf) | [JavaStringsIntroduction.java](/src/Java%20Strings%20Introduction/JavaStringsIntroduction.java) |
 | Java Substring                           | [java-substring-English.pdf](/src/Java%20Substring/java-substring-English.pdf) | [JavaSubstring.java](/src/Java%20Substring/JavaSubstring.java) |
 | Java Substring Comparisons               | [java-string-compare-English.pdf](/src/Java%20Substring%20Comparisons/java-string-compare-English.pdf) | [JavaSubstringComparisons.java](/src/Java%20Substring%20Comparisons/JavaSubstringComparisons.java) |
-| Java String Reverse                      | []() | []() |
+| Java String Reverse                      | [java-string-reverse-English.pdf](/src/Java%20Substring%20Comparisons/java-string-compare-English.pdf) | [JavaStringReverse.java](/src/Java%20Substring%20Comparisons/JavaSubstringComparisons.java) |
 | Java Anagrams                            | []() | []() |
 | Java String Tokens                       | []() | []() |
 | Pattern Syntax Checker                   | []() | []() |
