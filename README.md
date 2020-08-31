@@ -17,7 +17,7 @@
 | Java Currency Formatter                  | [java-currency-formatter-English.pdf](/src/Java%20Currency%20Formatter/java-currency-formatter-English.pdf) | [JavaCurrencyFormatter.java](/src/Java%20Currency%20Formatter/JavaCurrencyFormatter.java) |
 | Java Strings Introduction                | [java-strings-introduction-English.pdf](/src/Java%20Strings%20Introduction/java-strings-introduction-English.pdf) | [JavaStringsIntroduction.java](/src/Java%20Strings%20Introduction/JavaStringsIntroduction.java) |
 | Java Substring                           | [java-substring-English.pdf](/src/Java%20Substring/java-substring-English.pdf) | [JavaSubstring.java](/src/Java%20Substring/JavaSubstring.java) |
-| Java Substring Comparisons               | []() | []() |
+| Java Substring Comparisons               | [java-string-compare-English.pdf](/src/Java%20Substring%20Comparisons/java-string-compare-English.pdf) | [JavaSubstringComparisons.java](/src/Java%20Substring%20Comparisons/JavaSubstringComparisons.java) |
 | Java String Reverse                      | []() | []() |
 | Java Anagrams                            | []() | []() |
 | Java String Tokens                       | []() | []() |
