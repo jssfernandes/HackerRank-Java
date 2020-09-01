@@ -19,7 +19,7 @@
 | Java Substring                           | [java-substring-English.pdf](/src/Java%20Substring/java-substring-English.pdf) | [JavaSubstring.java](/src/Java%20Substring/JavaSubstring.java) |
 | Java Substring Comparisons               | [java-string-compare-English.pdf](/src/Java%20Substring%20Comparisons/java-string-compare-English.pdf) | [JavaSubstringComparisons.java](/src/Java%20Substring%20Comparisons/JavaSubstringComparisons.java) |
 | Java String Reverse                      | [java-string-reverse-English.pdf](/src/Java%20Substring%20Comparisons/java-string-compare-English.pdf) | [JavaStringReverse.java](/src/Java%20Substring%20Comparisons/JavaSubstringComparisons.java) |
-| Java Anagrams                            | []() | []() |
+| Java Anagrams                            | [java-anagrams-English.pdf](/src/Java%20Anagrams/java-anagrams-English.pdf) | [JavaAnagrams.java](/src/Java%20Anagrams/JavaAnagrams.java) |
 | Java String Tokens                       | []() | []() |
 | Pattern Syntax Checker                   | []() | []() |
 | Java Regex                               | []() | []() |
