@@ -22,7 +22,7 @@
 | Java Anagrams                            | [java-anagrams-English.pdf](/src/Java%20Anagrams/java-anagrams-English.pdf) | [JavaAnagrams.java](/src/Java%20Anagrams/JavaAnagrams.java) |
 | Java String Tokens                       | [java-string-tokens-English.pdf](/src/Java%20String%20Tokens/java-string-tokens-English.pdf) | [JavaStringTokens.java](/src/Java%20String%20Tokens/JavaStringTokens.java) |
 | Pattern Syntax Checker                   | [pattern-syntax-checker-English.pdf](/src/Pattern%20Syntax%20Checker/pattern-syntax-checker-English.pdf) | [PatternSyntaxChecker.java](/src/Pattern%20Syntax%20Checker/PatternSyntaxChecker.java) |
-| Java Regex                               | []() | []() |
+| Java Regex                               | [java-regex-English.pdf](/src/Java%20Regex/java-regex-English.pdf) | [JavaRegex.java](/src/Java%20Regex/JavaRegex.java) |
 | Java Regex 2 - Duplicate Words           | []() | []() |
 | Valid Username Regular Expression        | []() | []() |
 | Tag Content Extractor                    | []() | []() |
