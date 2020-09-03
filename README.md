@@ -21,7 +21,7 @@
 | Java String Reverse                      | [java-string-reverse-English.pdf](/src/Java%20Substring%20Comparisons/java-string-compare-English.pdf) | [JavaStringReverse.java](/src/Java%20Substring%20Comparisons/JavaSubstringComparisons.java) |
 | Java Anagrams                            | [java-anagrams-English.pdf](/src/Java%20Anagrams/java-anagrams-English.pdf) | [JavaAnagrams.java](/src/Java%20Anagrams/JavaAnagrams.java) |
 | Java String Tokens                       | [java-string-tokens-English.pdf](/src/Java%20String%20Tokens/java-string-tokens-English.pdf) | [JavaStringTokens.java](/src/Java%20String%20Tokens/JavaStringTokens.java) |
-| Pattern Syntax Checker                   | []() | []() |
+| Pattern Syntax Checker                   | [pattern-syntax-checker-English.pdf](/src/Pattern%20Syntax%20Checker/pattern-syntax-checker-English.pdf) | [PatternSyntaxChecker.java](/src/Pattern%20Syntax%20Checker/PatternSyntaxChecker.java) |
 | Java Regex                               | []() | []() |
 | Java Regex 2 - Duplicate Words           | []() | []() |
 | Valid Username Regular Expression        | []() | []() |
