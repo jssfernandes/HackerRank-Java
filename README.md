@@ -24,14 +24,14 @@
 | Pattern Syntax Checker                   | [pattern-syntax-checker-English.pdf](/src/Pattern%20Syntax%20Checker/pattern-syntax-checker-English.pdf) | [PatternSyntaxChecker.java](/src/Pattern%20Syntax%20Checker/PatternSyntaxChecker.java) |
 | Java Regex                               | [java-regex-English.pdf](/src/Java%20Regex/java-regex-English.pdf) | [JavaRegex.java](/src/Java%20Regex/JavaRegex.java) |
 | Java Regex 2 - Duplicate Words           | [duplicate-word-English.pdf](/src/Java%20Regex%202%20-%20Duplicate%20Words/duplicate-word-English.pdf) | [JavaRegex2DuplicateWords.java](/src/Java%20Regex%202%20-%20Duplicate%20Words/JavaRegex2DuplicateWords.java) |
-| Valid Username Regular Expression        | []() | []() |
-| Tag Content Extractor                    | []() | []() |
-| Java BigDecimal                          | []() | []() |
-| Java Primality Test                      | []() | []() |
-| Java BigInteger                          | []() | []() |
-| Java 1D Array                            | []() | []() |
-| Java 1D Array (Part 2)                   | []() | []() |
-| Java 2D Array                            | []() | []() |
+| Valid Username Regular Expression        | [valid-username-checker-English.pdf](/src/Valid%20Username%20Regular%20Expression/ValidUsernameRegularExpression.java) | [ValidUsernameRegularExpression.java](/src/Valid%20Username%20Regular%20Expression/ValidUsernameRegularExpression.java) |
+| Tag Content Extractor                    | [tag-content-extractor-English.pdf](/src/Tag%20Content%20Extractor/tag-content-extractor-English.pdf) | [TagContentExtractor.java](/src/Tag%20Content%20Extractor/TagContentExtractor.java) |
+| Java BigDecimal                          | [java-bigdecimal-English.pdf](/src/Java%20BigDecimal/java-bigdecimal-English.pdf) | [JavaBigDecimal.java](/src/Java%20BigDecimal/JavaBigDecimal.java) |
+| Java Primality Test                      | [java-primality-test-English.pdf](/src/Java%20Primality%20Test/java-primality-test-English.pdf) | [JavaPrimalityTest.java](/src/Java%20Primality%20Test/JavaPrimalityTest.java) |
+| Java BigInteger                          | [java-biginteger-English.pdf](/src/Java%20BigInteger/java-biginteger-English.pdf) | [JavaBigInteger.java](/src/Java%20BigInteger/JavaBigInteger.java) |
+| Java 1D Array                            | [java-1d-array-introduction-English.pdf](/src/Java%201D%20Array/java-1d-array-introduction-English.pdf) | [Java1DArray.java](/src/Java%201D%20Array/Java1DArray.java) |
+| Java 1D Array (Part 2)                   | [java-1d-array-English.pdf](/src/Java%201D%20Array%20(Part%202)/java-1d-array-English.pdf) | [Java1DArrayPart2.java](/src/Java%201D%20Array%20(Part%202)/Java1DArrayPart2.java) |
+| Java 2D Array                            | [java-2d-array-English.pdf](/src/Java%202D%20Array/java-2d-array-English.pdf) | [Java2DArray.java](/src/Java%202D%20Array/Java2DArray.java) |
 | Java Subarray                            | []() | []() |
 | Java Arraylist                           | []() | []() |
 | Java List                                | []() | []() |
