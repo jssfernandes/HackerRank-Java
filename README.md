@@ -32,9 +32,9 @@
 | Java 1D Array                            | [java-1d-array-introduction-English.pdf](/src/Java%201D%20Array/java-1d-array-introduction-English.pdf) | [Java1DArray.java](/src/Java%201D%20Array/Java1DArray.java) |
 | Java 1D Array (Part 2)                   | [java-1d-array-English.pdf](/src/Java%201D%20Array%20(Part%202)/java-1d-array-English.pdf) | [Java1DArrayPart2.java](/src/Java%201D%20Array%20(Part%202)/Java1DArrayPart2.java) |
 | Java 2D Array                            | [java-2d-array-English.pdf](/src/Java%202D%20Array/java-2d-array-English.pdf) | [Java2DArray.java](/src/Java%202D%20Array/Java2DArray.java) |
-| Java Subarray                            | []() | []() |
-| Java Arraylist                           | []() | []() |
-| Java List                                | []() | []() |
+| Java Subarray                            | [java-negative-subarray-English.pdf](/src/Java%20Subarray/java-negative-subarray-English.pdf) | [JavaSubarray.java](/src/Java%20Subarray/JavaSubarray.java) |
+| Java Arraylist                           | [java-arraylist-English.pdf](/src/Java%20Arraylist/java-arraylist-English.pdf) | [JavaArraylist.java](/src/Java%20Arraylist/JavaArraylist.java) |
+| Java List                                | [java-list-English.pdf](/src/Java%20List/java-list-English.pdf) | [JavaList.java](/src/Java%20List/JavaList.java) |
 | Java Map                                 | []() | []() |
 | Java Stack                               | []() | []() |
 | Java Hashset                             | []() | []() |
