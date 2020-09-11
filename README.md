@@ -35,7 +35,7 @@
 | Java Subarray                            | [java-negative-subarray-English.pdf](/src/Java%20Subarray/java-negative-subarray-English.pdf) | [JavaSubarray.java](/src/Java%20Subarray/JavaSubarray.java) |
 | Java Arraylist                           | [java-arraylist-English.pdf](/src/Java%20Arraylist/java-arraylist-English.pdf) | [JavaArraylist.java](/src/Java%20Arraylist/JavaArraylist.java) |
 | Java List                                | [java-list-English.pdf](/src/Java%20List/java-list-English.pdf) | [JavaList.java](/src/Java%20List/JavaList.java) |
-| Java Map                                 | []() | []() |
+| Java Map                                 | [phone-book-English.pdf](/src/Java%20Map/phone-book-English.pdf) | [JavaMap.java](/src/Java%20Map/JavaMap.java) |
 | Java Stack                               | []() | []() |
 | Java Hashset                             | []() | []() |
 | Java Generics                            | []() | []() |
