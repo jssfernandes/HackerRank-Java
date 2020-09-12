@@ -42,12 +42,12 @@
 | Java Comparator                          | [java-comparator-English.pdf](/src/Java%20Comparator/java-comparator-English.pdf) | [JavaComparator.java](/src/Java%20Comparator/JavaComparator.java) |
 | Java Sort                                | [java-sort-English.pdf](/src/Java%20Sort/java-sort-English.pdf) | [JavaSort.java](/src/Java%20Sort/JavaSort.java) |
 | Java Dequeue                             | [java-dequeue-English.pdf](/src/Java%20Dequeue/java-dequeue-English.pdf) | [JavaDequeue.java](/src/Java%20Dequeue/JavaDequeue.java) |
-| Java BitSet                              | []() | []() |
-| Java Priority Queue                      | []() | []() |
-| Java Inheritance I                       | []() | []() |
-| Java Inheritance II                      | []() | []() |
-| Java Abstract Class                      | []() | []() |
-| Java Interface                           | []() | []() |
+| Java BitSet                              | [java-bitset-English.pdf](/src/Java%20BitSet/java-bitset-English.pdf) | [JavaBitSet.java](/src/Java%20BitSet/JavaBitSet.java) |
+| Java Priority Queue                      | [java-priority-queue-English.pdf](/src/Java%20Priority%20Queue/java-priority-queue-English.pdf) | [JavaPriorityQueue.java](/src/Java%20Priority%20Queue/JavaPriorityQueue.java) |
+| Java Inheritance I                       | [java-inheritance-1-English.pdf](/src/Java%20Inheritance%20I/java-inheritance-1-English.pdf) | [JavaInheritanceI.java](/src/Java%20Inheritance%20I/JavaInheritanceI.java) |
+| Java Inheritance II                      | [java-inheritance-2-English.pdf](/src/Java%20Inheritance%20II/java-inheritance-2-English.pdf) | [JavaInheritanceII.java](/src/Java%20Inheritance%20II/JavaInheritanceII.java) |
+| Java Abstract Class                      | [java-abstract-class-English.pdf](/src/Java%20Abstract%20Class/java-abstract-class-English.pdf) | [JavaAbstractClass.java](/src/Java%20Abstract%20Class/JavaAbstractClass.java) |
+| Java Interface                           | [java-interface-English.pdf](/src/Java%20Interface/java-interface-English.pdf) | [JavaInterface.java](/src/Java%20Interface/JavaInterface.java) |
 | Java Method Overriding                   | []() | []() |
 | Java Method Overriding 2 (Super Keyword) | []() | []() |
 | Java Instanceof keyword                  | []() | []() |
