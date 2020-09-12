@@ -36,12 +36,12 @@
 | Java Arraylist                           | [java-arraylist-English.pdf](/src/Java%20Arraylist/java-arraylist-English.pdf) | [JavaArraylist.java](/src/Java%20Arraylist/JavaArraylist.java) |
 | Java List                                | [java-list-English.pdf](/src/Java%20List/java-list-English.pdf) | [JavaList.java](/src/Java%20List/JavaList.java) |
 | Java Map                                 | [phone-book-English.pdf](/src/Java%20Map/phone-book-English.pdf) | [JavaMap.java](/src/Java%20Map/JavaMap.java) |
-| Java Stack                               | []() | []() |
-| Java Hashset                             | []() | []() |
-| Java Generics                            | []() | []() |
-| Java Comparator                          | []() | []() |
-| Java Sort                                | []() | []() |
-| Java Dequeue                             | []() | []() |
+| Java Stack                               | [java-stack-English.pdf](/src/Java%20Stack/java-stack-English.pdf) | [JavaStack.java](/src/Java%20Stack/JavaStack.java) |
+| Java Hashset                             | [java-hashset-English.pdf](/src/Java%20Hashset/java-hashset-English.pdf) | [JavaHashset.java](/src/Java%20Hashset/JavaHashset.java) |
+| Java Generics                            | [java-generics-English.pdf](/src/Java%20Generics/java-generics-English.pdf) | [JavaGenerics.java](/src/Java%20Generics/JavaGenerics.java) |
+| Java Comparator                          | [java-comparator-English.pdf](/src/Java%20Comparator/java-comparator-English.pdf) | [JavaComparator.java](/src/Java%20Comparator/JavaComparator.java) |
+| Java Sort                                | [java-sort-English.pdf](/src/Java%20Sort/java-sort-English.pdf) | [JavaSort.java](/src/Java%20Sort/JavaSort.java) |
+| Java Dequeue                             | [java-dequeue-English.pdf](/src/Java%20Dequeue/java-dequeue-English.pdf) | [JavaDequeue.java](/src/Java%20Dequeue/JavaDequeue.java) |
 | Java BitSet                              | []() | []() |
 | Java Priority Queue                      | []() | []() |
 | Java Inheritance I                       | []() | []() |
