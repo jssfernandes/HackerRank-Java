@@ -54,12 +54,12 @@
 | Java Iterator                            | [java-iterator-English.pdf](/src/Java%20Iterator/java-iterator-English.pdf) | [JavaIterator.java](/src/Java%20Iterator/JavaIterator.java) |
 | Java Exception Handling (Try-catch)      | [java-exception-handling-try-catch-English.pdf](/src/Java%20Exception%20Handling%20(Try-catch)/java-exception-handling-try-catch-English.pdf) | [JavaExceptionHandlingTryCatch.java](/src/Java%20Exception%20Handling%20(Try-catch)/JavaExceptionHandlingTryCatch.java) |
 | Java Exception Handling                  | [java-exception-handling-English.pdf](/src/Java%20Exception%20Handling/java-exception-handling-English.pdf) | [JavaExceptionHandling.java](/src/Java%20Exception%20Handling/JavaExceptionHandling.java) |
-| Java Varargs - Simple Addition           | []() | []() |
-| Java Reflection - Attributes             | []() | []() |
-| Can You Access?                          | []() | []() |
-| Prime Checker                            | []() | []() |
-| Java Factory Pattern                     | []() | []() |
-| Java Singleton Pattern                   | []() | []() |
+| Java Varargs - Simple Addition           | [simple-addition-varargs-English.pdf](/src/Java%20Varargs%20-%20Simple%20Addition/simple-addition-varargs-English.pdf) | [avaVarargsSimpleAddition.java](/src/Java%20Varargs%20-%20Simple%20Addition/JavaVarargsSimpleAddition.java) |
+| Java Reflection - Attributes             | [java-reflection-attributes-English.pdf](/src/Java%20Reflection%20-%20Attributes/java-reflection-attributes-English.pdf) | [JavaReflectionAttributes.java](/src/Java%20Reflection%20-%20Attributes/JavaReflectionAttributes.java) |
+| Can You Access?                          | [can-you-access-English.pdf](/src/Can%20You%20Access/can-you-access-English.pdf) | [CanYouAccess.java](/src/Can%20You%20Access/CanYouAccess.java) |
+| Prime Checker                            | [prime-checker-English.pdf](/src/Prime%20Checker/prime-checker-English.pdf) | [PrimeChecker.java](/src/Prime%20Checker/PrimeChecker.java) |
+| Java Factory Pattern                     | [java-factory-English.pdf](/src/Java%20Factory%20Pattern/java-factory-English.pdf) | [JavaFactoryPattern.java](/src/Java%20Factory%20Pattern/JavaFactoryPattern.java) |
+| Java Singleton Pattern                   | [java-singleton-English.pdf](/src/Java%20Singleton%20Pattern/java-singleton-English.pdf) | [Singleton.java](/src/Java%20Singleton%20Pattern/Singleton.java) |
 | Java Visitor Pattern                     | []() | []() |
 | Java Annotations                         | []() | []() |
 | Covariant Return Types                   | []() | []() |
