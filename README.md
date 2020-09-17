@@ -60,9 +60,9 @@
 | Prime Checker                            | [prime-checker-English.pdf](/src/Prime%20Checker/prime-checker-English.pdf) | [PrimeChecker.java](/src/Prime%20Checker/PrimeChecker.java) |
 | Java Factory Pattern                     | [java-factory-English.pdf](/src/Java%20Factory%20Pattern/java-factory-English.pdf) | [JavaFactoryPattern.java](/src/Java%20Factory%20Pattern/JavaFactoryPattern.java) |
 | Java Singleton Pattern                   | [java-singleton-English.pdf](/src/Java%20Singleton%20Pattern/java-singleton-English.pdf) | [Singleton.java](/src/Java%20Singleton%20Pattern/Singleton.java) |
-| Java Visitor Pattern                     | []() | []() |
-| Java Annotations                         | []() | []() |
-| Covariant Return Types                   | []() | []() |
-| Java Lambda Expressions                  | []() | []() |
-| Java MD5                                 | []() | []() |
-| Java SHA-256                             | []() | []() |
+| Java Visitor Pattern                     | [java-vistor-pattern-English.pdf](/src/Java%20Visitor%20Pattern/java-vistor-pattern-English.pdf) | [JavaVisitorPattern.java](/src/Java%20Visitor%20Pattern/JavaVisitorPattern.java) |
+| Java Annotations                         | [java-annotations-English.pdf](/src/Java%20Annotations/java-annotations-English.pdf) | [JavaAnnotations.java](/src/Java%20Annotations/JavaAnnotations.java) |
+| Covariant Return Types                   | [java-covariance-English.pdf](/src/Covariant%20Return%20Types/java-covariance-English.pdf) | [CovariantReturnTypes.java](/src/Covariant%20Return%20Types/CovariantReturnTypes.java) |
+| Java Lambda Expressions                  | [java-lambda-expressions-English.pdf](/src/Java%20Lambda%20Expressions/java-lambda-expressions-English.pdf) | [JavaLambdaExpressions.java](/src/Java%20Lambda%20Expressions/JavaLambdaExpressions.java) |
+| Java MD5                                 | [java-md5-English.pdf](/src/Java%20MD5/java-md5-English.pdf) | [JavaMD5.java](/src/Java%20MD5/JavaMD5.java) |
+| Java SHA-256                             | [sha-256-English.pdf](/src/Java%20SHA-256/sha-256-English.pdf) | [JavaSHA256.java](/src/Java%20SHA-256/JavaSHA256.java) |
